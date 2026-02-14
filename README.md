@@ -6,6 +6,8 @@ Console-based Python application for tracking daily expenses.
 - Add expenses
 - Save data to file
 - View expense history
+- Improved formatting, fixed an error on line 33, and added a missing colon.
+
 
 ## Technologies
 - Python 3.14
