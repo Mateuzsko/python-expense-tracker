@@ -14,11 +14,11 @@ def show_expenses():
 
 
 while True:
-    print("\n1. Add expeense")
-    print("2. Show expenses")
-    print("3. Exit")
+    print("\n1. Add expeense ")
+    print("2. Show expenses ")
+    print("3. Exit ")
 
-    choice = input("Choose an option")
+    choice = input("Choose an option ")
 
     if choice == "1":
         try:
@@ -30,7 +30,7 @@ while True:
                 print("invalid number.")
     elif choice == "2":
         show_expenses()
-    elif chhoice == "3":
+    elif choice == "3":
         print("Bye!")
         break
     else:
